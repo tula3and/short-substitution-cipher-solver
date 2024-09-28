@@ -1,5 +1,5 @@
-# substitution-cipher-solver
-Algorithm for solving monoalphabetic substitution ciphers
+# short-substitution-cipher-solver
+Algorithm for solving short monoalphabetic substitution ciphers
 
 ## How to Install
 1. Make a virtual space for Python: `python -m venv venv`
